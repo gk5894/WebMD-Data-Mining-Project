@@ -1,4 +1,4 @@
-# WebMD Data Mining Project - Readme
+# WebMD Data Mining Project - Report
 
 ### Motivation
   The US has the largest pharmaceutical market in the world. If anyone wants to buy a drug, he/she looks for the drug and its possible side-effects in internet. WebMD is the largest website in terms of page views and clicks. It is assumed to be a legitimate source of information. We decided to scrape the data from the website regarding the reviews posted by the patients or caretakers on the website. It will give us a good overview of a particular drug if we get the sentiment analysis and frequently cited side-effects in the reviews. It can also provide valuable information regarding the competitors drugs which are mentioned in the comments.
