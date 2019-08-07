@@ -7,12 +7,6 @@ For the summary of the project please refer [report.md](https://github.com/gk589
 
 The detailed project [report](https://github.com/gk5894/WebMD-Data-Mining-Project/blob/master/Final%20Report%20-%20660.docx) extends upon the findings and contains all the necessary results and graphs.
 
-#### Conclusion:
-After performing the textual analysis (NLP) and doing some research, we concluded that WebMD website is not the ideal place to look for recommendations or reviews.
-A lot of the reviews are subjective and hence it makes the outcomes very untrustworthy. 
-
-We also found this article by  VIRGINIA HEFFERNAN from NYTimes to back our findings. Take a look.
-(https://www.nytimes.com/2011/02/06/magazine/06FOB-Medium-t.html)
 
 
 
