@@ -57,5 +57,6 @@
 
 ### Conclusion and Future work:
 
+  *	There is a clear need of alternative drugs to the opioid drugs in pain medication market. People are extremly unhappy with the addicitve nature of the currently available drugs.
   *	WebMD reviews are not the ideal place for drug companies to look for insights since people are inherently biased either along a positive side or a negative one.
   *	However, it is a good source to know the customers sentiments, the drug side-effects and study competitor’s drugs.
